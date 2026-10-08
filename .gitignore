@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+.idea/
+.vscode/
+.DS_Store
+
+.cursor/
+.cursorignore
+TEACHINGS.txt
+backend/server-teaching.js
